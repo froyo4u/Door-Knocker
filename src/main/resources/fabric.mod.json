@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "doorknockmod",
+  "version": "1.0",
+  "name": "Door Knocker",
+  "description": "",
+  "authors": [
+  "FroyoCS"
+  ],
+  "contact": {},
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "tk.meowmc.doorknockmod.Doorknockmod"
+    ]
+  },
+  "mixins": [
+    "doorknockmod.mixins.json"
+  ],
+  "depends": {
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  }
+}

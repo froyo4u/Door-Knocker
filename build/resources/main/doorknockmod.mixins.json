@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "tk.meowmc.doorknockmod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "DoorKnockMixins",
+    "TrapDoorKnockMixins"
+  ],
+  "client": [
+    "DoorKnockMixins",
+    "TrapDoorKnockMixins"
+  ],
+  "server": [
+    "DoorKnockMixins",
+    "TrapDoorKnockMixins"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
