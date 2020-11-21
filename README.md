@@ -1,6 +1,8 @@
 # Door Knocker Mod
 Hello! And thanks for visiting the GitHub repository of my Fabric Minecraft mod: Door Knocker.
 
+Curseforge page: https://www.curseforge.com/minecraft/mc-mods/door-knocker
+
 Basically this mod adds one thing:
 
 The ability to knock on doors and trapdoors.
