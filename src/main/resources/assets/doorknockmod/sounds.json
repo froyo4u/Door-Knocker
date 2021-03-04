@@ -1,15 +1,25 @@
-    {
-      "door_knock": {
-	      "subtitle": "subtitles.doorknockmod.door_knock",
-
-        "sounds": [
-          "doorknockmod:door_knock"
-        ]
-      },
-	  "trapdoor_knock": {
-	      "subtitle": "subtitles.doorknockmod.trapdoor_knock",
-        "sounds": [
-		  "doorknockmod:trapdoor_knock"
-		  ]
-		}
-	}
+{
+  "door_knock": {
+    "subtitle": "subtitles.doorknockmod.door_knock",
+    "sounds": [
+      "doorknockmod:door_knock_1",
+      "doorknockmod:door_knock_2",
+      "doorknockmod:door_knock_3",
+      "doorknockmod:door_knock_4",
+      "doorknockmod:door_knock_5",
+      "doorknockmod:door_knock_6",
+      "doorknockmod:door_knock_7"
+    ]
+  },
+  "trapdoor_knock": {
+    "subtitle": "subtitles.doorknockmod.trapdoor_knock",
+    "sounds": [
+      "doorknockmod:trapdoor_knock_1",
+      "doorknockmod:trapdoor_knock_2",
+      "doorknockmod:trapdoor_knock_3",
+      "doorknockmod:trapdoor_knock_4",
+      "doorknockmod:trapdoor_knock_5",
+      "doorknockmod:trapdoor_knock_6"
+    ]
+  }
+}
