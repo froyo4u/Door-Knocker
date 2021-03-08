@@ -5,7 +5,10 @@
   "name": "Door Knocker",
   "description": "",
   "authors": [
-  "FroyoCS"
+    "FroyoCS"
+  ],
+  "contributors": [
+    "MokkaCicc"
   ],
   "contact": {},
   "environment": "*",
