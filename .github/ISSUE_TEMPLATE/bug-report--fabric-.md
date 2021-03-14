@@ -3,7 +3,7 @@ name: Bug Report (Fabric)
 about: Create a report to help us improve the Fabric version of Door Knocker.
 title: "[Fabric] Issue title here"
 labels: Fabric Version, bug
-assignees: 'MeowMC'
+assignees: MeowMC
 
 ---
 
