@@ -1,7 +1,7 @@
 # Door Knocker Mod
 Hello! And thanks for visiting the GitHub repository of my Fabric Minecraft mod: Door Knocker.
 
-Report a Bug/Issue: [Click here](https://github.com/MeowMC/Door-Knocker/issues/new?assignees=ZandercraftGames&labels=Forge+Version%2C+bug&template=bug-report--forge-.md&title=%5BForge%5D+Issue+title+here)
+Report a Bug/Issue: [Click here](https://github.com/MeowMC/Door-Knocker/issues/new?assignees=MeowMC&labels=Fabric+Version%2C+bug&template=bug-report--fabric-.md&title=%5BFabric%5D+Issue+title+here)
 
 Submit a Feature Request: [Click here]()
 
