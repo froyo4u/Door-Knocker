@@ -33,7 +33,7 @@ Steps to reproduce the behavior:
 **Versioning Info:**
  - Mod Version: 
  - Fabric Version: 
- - Fabric API Version (If applicable): 
+ - Fabric API Version: 
  - Optifine Version (If applicable): 
 - Optimization Mods (i.e. Sodium, Phosphor, etc.): 
 
